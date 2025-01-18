@@ -1,0 +1,10 @@
+flask==2.0.1
+flask-cors==3.0.10
+transformers==4.21.0
+torch
+nltk==3.6.3
+scikit-learn==0.24.2
+numpy==1.21.2
+gTTS==2.2.3
+SpeechRecognition==3.8.1
+python-dotenv==0.19.0
